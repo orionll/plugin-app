@@ -1,0 +1,18 @@
+<project>
+	<parent>
+		<artifactId>plugin-app</artifactId>
+		<groupId>org.example.plugin-app</groupId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>plugin1</artifactId>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.example.plugin-app</groupId>
+			<artifactId>core</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>
