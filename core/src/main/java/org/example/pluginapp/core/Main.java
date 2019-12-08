@@ -1,6 +1,5 @@
 package org.example.pluginapp.core;
 
-import java.awt.*;
 import java.lang.module.Configuration;
 import java.lang.module.ModuleDescriptor;
 import java.lang.module.ModuleFinder;
